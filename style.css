@@ -40,3 +40,14 @@ video {
 	left: 0;
 	right: 0;
 }
+
+@font-face
+{
+		font-family:choloimport;
+		src:url(cholo.ttf");
+}
+
+#main
+{
+		font-family:choloimport;
+}
